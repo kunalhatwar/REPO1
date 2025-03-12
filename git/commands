@@ -1,0 +1,10 @@
+ssh-keygen
+git clone
+git add .
+git commit -m "messege"
+git push
+git config --global --list
+git config --global user.name "kunalhatwar"
+git config --global user.email "kunalhatwaar222@gmail.com"
+git checkout -b dev
+git checkout main
